@@ -1,0 +1,17 @@
+fetch("http://api.uxprj.com/3/cartoon/dsp/list", {
+  "headers": {
+    "accept": "application/json, text/plain, */*",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8,zh-CN;q=0.7,zh;q=0.6",
+    "access-token": "fo7Oc9ySEgsEAHQuEH369ePAk4gQwChJ",
+    "cache-control": "no-cache",
+    "content-type": "application/x-www-form-urlencoded;charset=UTF-8",
+    "pragma": "no-cache",
+    "proxy-connection": "keep-alive",
+    "sign": "9A19383B70DC49CB4C6B84B8107D31F0",
+    "timestamp": "1677238588000",
+    "Referer": "http://11dm2fd1.ag3vyd8sv9h.com/",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  },
+  "body": "app=1&groupid=1&refid=&linkid=&recommend=&from=",
+  "method": "POST"
+});
